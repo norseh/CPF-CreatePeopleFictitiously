@@ -5,5 +5,4 @@ Create all Brazilian identification numbers mod11 based (CPF) - 1 billion of reg
 - Modify the localpath to write file
 - Optimized for low memory and disk io usage
 - About 3h to generate the entire list
-
-If you prefer to download the result see the tar.gz file
+- Algorithm (mod11) is open and the generated data is not linked with anyone
